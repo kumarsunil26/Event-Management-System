@@ -1,0 +1,39 @@
+body {
+font-family: Arial, sans-serif;
+background: #f2f2f2;
+}
+.container, .login-box {
+width: 350px;
+margin: 100px auto;
+padding: 20px;
+background: white;
+text-align: center;
+border-radius: 5px;
+}
+
+
+h1, h2 {
+color: #333;
+}
+
+
+input, select {
+width: 90%;
+padding: 10px;
+margin: 10px 0;
+}
+
+
+button, .btn {
+background: #007bff;
+color: white;
+padding: 10px 20px;
+border: none;
+text-decoration: none;
+cursor: pointer;
+}
+
+
+#error {
+color: red;
+}
